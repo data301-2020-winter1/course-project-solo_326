@@ -22,7 +22,7 @@ This dataset was posted to data.world by Liz Friedman and is constantly updated.
 ## References
 
 [1] https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-*
+##
 [2] https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/race-ethnicity.html
-*
+##
 [3] https://www.who.int/news/item/29-06-2020-covidtimeline
