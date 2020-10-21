@@ -13,7 +13,7 @@ The COVID-19 pandemic is a current global pandemic caused by the SARS-CoV-2 viru
 
 ## Describe your dataset in about 150-200 words
 
-This dataset was posted to data.world by Liz Friedman and is constantly updated. It contains 28 columns with 2,999 rows and includes the number of cases and number of deaths by ethnicity for each US state. The first data entry was on April 15th 2020, almost a month after the World Health Organization (WHO) declared the outbreak as a 'pandemic' [3]. This dataset was created to educate the public about the AIAN stands for 'American Indian and Alaska Native', and NHPI stands for 'Native Hawaiian and Pacific Islander'.  
+This dataset was posted to data.world by Liz Friedman, and is updated daily via the COVID Racial Data Tracker. The COVID Racial Data Tracker is a collaboration between the COVID Tracking Project and the Antiracist Research & Policy Center [3]. It contains 28 columns with 2,999 rows and includes the number of cases and number of deaths by ethnicity for each US state. The ethnic groups in this dataset include: white, black, latinx, asian, AIAN (American Indian and Alaska Native), NHPI (Native Hawaiian and Pacific Islander, multiracial, other and unknown. The first data entry was on April 15th 2020, almost a month after the World Health Organization (WHO) declared the outbreak as a 'pandemic' [4]. This dataset was created to educate the public about how COVID-19 affects mortality in different ethnic groups.
 
 ## Team Members
 
@@ -25,4 +25,6 @@ This dataset was posted to data.world by Liz Friedman and is constantly updated.
 ##
 [2] https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/race-ethnicity.html
 ##
-[3] https://www.who.int/news/item/29-06-2020-covidtimeline
+[3] https://covidtracking.com/race
+##
+[4] https://www.who.int/news/item/29-06-2020-covidtimeline
