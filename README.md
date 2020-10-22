@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-The COVID-19 pandemic is a current global pandemic caused by the SARS-CoV-2 virus. As of October 21st 2020 there have been more than 1.12 million deaths, and more than 40.5 million confirmed cases [1]. As a Microbiology student, I have been studying COVID-19 in my courses with an emphasis on immunology, pathophysiology, genomics and diagnostics but by working on this project I hope to gain a deeper understanding and working knowledge about how data analytics and manipulation is used in healthcare and epidemiology. I want to understand and visualize how the COVID-19 pandemic has affected mortality for different ethnic groups in all 50 US states. People of color are disproportionately affected by the COVID-19 pandemic due to many reasons such as: socioeconomic status, housing, healthcare access, and occupational hazards [2]. Visualizing and analyzing this data can highlight the struggles that these marginalized communities are facing, and hopefully help them reach health equity. 
+The COVID-19 pandemic is a current global pandemic caused by the SARS-CoV-2 virus. As of October 21st 2020 there have been more than 1.12 million deaths, and more than 40.5 million confirmed cases [1]. As a Microbiology student, I have been studying COVID-19 in my courses with an emphasis on immunology, pathophysiology, genomics and diagnostics but by working on this project I hope to gain a deeper understanding and working knowledge about how data analytics and manipulation are used in healthcare and epidemiology. I want to understand and visualize how the COVID-19 pandemic has affected mortality for different ethnic groups in all 50 US states. People of color are disproportionately affected by the COVID-19 pandemic due to many reasons such as: socioeconomic status, housing, healthcare access, and occupational hazards [2]. Visualizing and analyzing this data can highlight the struggles that these marginalized communities are facing, and hopefully help them reach health equity. 
 
 ## Describe your dataset in about 150-200 words
 
@@ -21,10 +21,13 @@ This dataset was posted to data.world by Liz Friedman, and is updated daily via 
 
 ## References
 
-[1] https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+[1] COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at John Hopkins University: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 ##
-[2] https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/race-ethnicity.html
+[2] Health Equity Considerations and Racial and Ethnic Minority Groups: 
+https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/race-ethnicity.html
 ##
-[3] https://covidtracking.com/race
+[3] The COVID Racial Tracker: 
+https://covidtracking.com/race
 ##
-[4] https://www.who.int/news/item/29-06-2020-covidtimeline
+[4] Timeline of WHO's response to COVID-19: 
+https://who.int/news/item/29-06-2020-covidtimeline
