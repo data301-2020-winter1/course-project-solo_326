@@ -1,1 +1,8 @@
+**Data folder**
+
+---
+
 All the data used will be in this directory.
+
+1. processed folder: contains the manipulated data
+2. raw folder: contains the raw/unedited data
